@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html
+<QUALQUER TAG>
+<000>
   lang="en"
   
   data-color-mode="auto" data-light-theme="light" data-dark-theme="dark"
